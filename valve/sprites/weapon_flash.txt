@@ -1,0 +1,7 @@
+6
+weapon			640 weapon_flash	0	0	170	45
+weapon_s		640 weapon_flash	0	45	170	45
+ammo			640 weapon_flash	192	45	24	24
+crosshair		640 crosshairs		0	0	24	24
+d_flash			640 weapon_flash	0	239	48	17
+d_flash_rocket	640 weapon_flash	0	239	48	17

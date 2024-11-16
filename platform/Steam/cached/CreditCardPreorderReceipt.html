@@ -1,0 +1,69 @@
+﻿<html>
+<head>
+<title>STEAM - Квитанция к Вашему пред-заказу</title>
+
+<style TYPE="text/css">
+
+BODY {
+	margin:8px 25% 0 5%;
+	font-family:Arial,Verdana,Helvetica;
+	font-size:10pt;
+}
+h1 {
+	font-weight:bold;
+	font-size:11pt;
+	line-height:14pt;
+	text-transform:uppercase;
+	margin-bottom:0px;
+}
+TD {
+	font-family:Arial,Verdana,Helvetica;
+	font-size:10pt;
+	padding-right:24px;
+}
+HR {
+	height:1px;
+	color:black;
+}
+</style>
+
+
+</head>
+
+
+<body OnLoad="window.print()">
+<h1><img src="http://steampowered.com/img/steam_logo_onwhite.gif" height="36" width="67" alt="STEAM" align="absmiddle"> Steam - Квитанция об оплате при помощи кредитной карты</h1>
+<br>
+Благодарим Вас за оформление предварительного заказа %%subscription%% в Steam. <b>Платёж с Вашей кредитной карты будет снят в момент официального выпуска %%subscription%%.</b> Тогда же Вам будет выслана полная квитанция об оплате с помощью кредитной карты.
+Рекомендуется хранить данную информацию в безопасном месте. В будущем она может быть использована в качестве квитанции об оплате.
+
+<br><br>
+<hr noshade size="1">
+
+<table>
+
+<tr><td>Имя учётной записи:</td><td><b> %%accountname%% </b></td></tr>
+<tr><td>Адрес e-mail для связи:</td><td><b> %%email%% </b></td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td>Имя владельца карты:</td><td><b> %%cardholdername%% </b></td></tr>
+<tr><td>Тип карты:</td><td><b> %%cardtype%% </b></td></tr>
+<tr><td>Последние 4 цифры:</td><td><b> %%cardlastfourdigits%% </b></td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td colspan="2">В момент выпуска с указанной выше кредитной карты будет снят платёж:</td></tr>
+<tr><td>Название продукта:</td><td><b> %%subscription%% </b></td></tr>
+<tr><td>Стоимость:</td><td><b> %%pricewithouttax%% </b></td></tr>
+<tr><td>Налог:</td><td><b> %%taxamount%% </b></td></tr>
+<tr><td>Итоговая стоимость:</td><td><b> %%pricetotal%% долларов США</b></td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td>Код подтверждения пред-заказа:</td><td><b> %%confirmationcode%% </b></td></tr>
+
+</table>
+
+<hr noshade size="1">
+<br>
+<b>Важное примечание:</b> Ваша новая подписка привязана к Вашей учётной записи Steam. Это означает, что Вы будете иметь доступ к %%subscription%% только при входе в Steam под учётной записью "%%accountname%%".<br>
+<br><b>Благодарим Вас за покупку!</b><br>
+<br><br>
+
+</body>
+</html>

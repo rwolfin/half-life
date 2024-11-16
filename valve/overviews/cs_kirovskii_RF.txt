@@ -1,0 +1,14 @@
+// overview description file for cs_kirovskii_RF.bsp
+
+global 
+{
+	ZOOM	0.77
+	ORIGIN	0 	-24	-144
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_kirovskii_RF.bmp"
+	HEIGHT	-144
+}

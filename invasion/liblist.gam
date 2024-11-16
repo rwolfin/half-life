@@ -1,0 +1,13 @@
+// Half-Life INVASION liblist.gam
+// www.hl-invasion.fr.st
+//
+game "INVASION"
+startmap "l1m1"
+trainingmap "l1m1"
+gamedll "dlls\invasion.dll"
+cldll "1"
+type "Suite d'HL"
+gamedir "invasion"
+url_info "http://www.hl-invasion.fr.st"
+version "v 1.0"
+size "130000000"

@@ -1,0 +1,169 @@
+*****************************************	v1.0
+** Listing de développement et crédits **
+**  du mod solo Half-life : INVASION   **
+**        www.hl-invasion.fr.st        **
+**          hlinvasion@free.fr         **
+*****************************************
+
+© Copyright 2003-2004 HLInvasion Corporation. All Rights Reserved.
+
+********
+Coding :
+********
+Logiciel(s) utilisé(s) : Microsoft Visual Studio 6
+
+Toute la partie programmation en C++ du mod a été réalisée par JujU :
+conduite du tank,
+système de particules et d'impacts de balle haute résolution,
+système de démembrages des ennemis,
+nouveau hud,
+nouveau système de soin,
+nouveau système de dialogue avec sous-titrages,
+programmation des nouveaux ennemis (rpggrunt, sniper, flybee et luciols),
+programmation des nouvelles armes (irgun, lance-flammes, briquet, sniper, choix des rockets...),
+nouveaux effets graphiques (brûlure des ennemis, effets de fumée, lens-flare, spotlight...),
+innovations du gameplay (digicodes, vgui des caméras de surveillance, vgui des tapis roulants...),
+...
+
+*********
+Mapping :
+*********
+Logiciel(s) utilisé(s) : Worlcraft 3.3
+
+Maps "Partie 1 : l'invasion"
+l1m1		:	JujU
+l1m1_a1		:	Yagéro
+l1m1_a2		:	Yagéro & JujU
+l1m1_b1		:	Yagéro
+l1m1_b2		:	Yagéro
+l1m3		:	Fregman & Yagéro
+l1m5		:	JujU
+l1m6		:	Yagéro
+
+Maps "Partie 2 : à la surface"
+l2m1		:	Yagéro
+l2m2		:	JujU & Fregman
+l2m3		:	JujU & Fregman
+l2m4		:	Yagéro
+l2m5		:	JujU
+l2m6		:	Yagéro
+l2m7		:	Yagéro
+l2m8		:	Yagéro
+l2m9		:	Yagéro
+l2m10		:	Yagéro
+
+Maps "Partie 3 : camp militaire"
+l3m1		:	JujU
+l3m2		:	Yagéro
+l3m3		:	JujU
+l3m4		:	JujU
+l3m5		:	Yagéro
+l3m6		:	Yagéro
+l3m7		:	Yagéro
+l3m8		:	JujU
+l3m9		:	JujU & DXM
+l3m10		:	DXM
+l3m11		:	DXM
+l3m12		:	DXM
+l3m13		:	DXM
+l3m14		:	DXM
+
+Maps "Partie 4 : retour à Black Mesa"
+l4m1		:	Yagéro
+l4m2		:	Yagéro
+l4m3		:	Yagéro
+l4m4		:	Fregman & Yagéro
+l4m5		:	Yagéro
+l4m6		:	Yagéro
+l4m7		:	Yagéro
+
+Maps "Partie 5 : l'invasion alienne"
+l5m1		:	Yagéro
+l5m2		:	Yagéro
+l5m3		:	Yagéro
+l5m4		:	Yagéro
+l5m5		:	Yagéro
+
+**********
+Modeling :
+**********
+Logiciel(s) utilisé(s) : Milkshape 3D et 3DS Max
+
+Models d'armes :
+serre-joint	: Yagéro
+briquet		: Yagéro
+glock		: Fregman & JujU
+beretta		: Yagéro
+irgun		: Fregman & Yagéro
+mp5		: Yagéro
+shotgun		: Yagéro
+m16		: Yagéro
+sniper		: Yagéro
+rpg		: Yagéro
+supergun	: Yagéro
+lflammes	: Yagéro
+frag_grenade	: Yagéro
+
+Autres models :
+tank			: Fregman & JujU
+rpggrunt		: Yagéro
+sniper			: Yagéro
+luciols			: Fregman
+anims flybee		: Yagéro
+anims supplémentaires	: Yagéro
+démembrage + gibs	: Yagéro
+
+*******
+Audio :
+*******
+Logiciel(s) utilisé(s) : Ibiza Ejay et Sound Forge 6
+
+Sons armes 	: JujU & Yagéro
+Sons tank	: JujU
+Sons monstres	: JujU
+Voix dialogues	: JujU & Yagéro
+Musiques	: Manu
+
+**************
+Graphisme 2D :
+**************
+Logiciel(s) utilisé(s) : Adobe Photoshop 6 et Sprite Wizard
+
+Sprites :
+particules		: Yagéro
+impacts balles		: Yagéro
+flamme feu		: JujU
+fumée 			: JujU
+lensflare		: JujU
+spotlight		: JujU
+flamme briquet		: Yagéro
+viseur sniper		: Yagéro
+
+HUD :
+domages		: Yagéro
+choix armes 	: Yagéro
+gestion soin	: JujU
+radio		: Yagéro
+caractères	: JujU
+vgui		: JujU
+digipad		: JujU
+
+Textures :
+maps du tank	: DXM
+autres maps	: Yagéro
+
+Interface :
+splash		: Fregman & JujU
+btns_main	: Yagéro
+cached.wad	: JujU
+
+********
+Autres :
+********
+
+programme language	: JujU
+
+Textes en français	: JujU & Yagéro
+Textes en anglais	: Yagéro
+Textes en allemand	: Vegata
+Textes en espagnol	: JujU & Berzek

@@ -1,0 +1,383 @@
+//TITLES FOR HALF-LIFE
+// Position command $position x y 
+// x & y are from 0 to 1 to be screen resolution independent
+// -1 means center in each dimension
+// Effect command $effect <effect number>
+// effect 0 is fade in/fade out
+// effect 1 is flickery credits
+// effect 2 is write out (training room)
+// Text color r g b command $color
+// fadein time fadeout time / hold time
+// $fadein (message fade in time - per character in effect 2)
+// $fadeout (message fade out time)
+// $holdtime (stay on the screen for this long)
+
+
+//INTRO TITLES
+// All centered for now
+$position -1 -1
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 240 110 0
+// This is the time it takes to fade each character
+$fadein 0.005
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 3.5
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+
+
+GAMEOVER
+{
+СУБЬЕКТ:  ФРИМЕН
+
+СТАТУС:  НАБЛЮДЕНИЕ ЗАВЕРШЕНО
+
+ПОСМЕРТНО:
+Субъект не смог эффективно использовать
+ресурсы для достижения цели.
+}
+
+$fadein 0.03
+$holdtime 9
+TRAITOR
+{
+СУБЬЕКТ:  ФРИМЕН
+
+СТАТУС:  НАНЯТ
+
+ОЖИДАЕТ НАЗНАЧЕНИЯ
+}
+
+
+$fadein 0.03
+$holdtime 9
+LOSER
+{
+СУБЬЕКТ:  ФРИМЕН
+
+СТАТУС:  НАБЛЮДЕНИЕ ЗАВЕРШЕНО
+
+ПОСМЕРТНО:
+Субъект отклонил предложение о приеме на работу.
+}
+
+
+
+
+// titles invasion
+
+
+$holdtime 4
+
+L1M1_TITLE1
+{
+СУБЬЕКТ:  ФРИМЕН
+
+СТАТУС:  НАБЛЮДЕНИЕ ПРОДОЛЖАЕТСЯ
+
+Субъект отклонил предложение о приеме на работу.
+}
+
+L1M1_TITLE2
+{
+Глава 1: Вторжение военных
+}
+
+L2M1_TITLE1
+{
+Глава 2: На поверхность
+}
+
+L3M1_TITLE1
+{
+Глава 3: Военный лагерь
+}
+
+L4M1_TITLE1
+{
+Глава 4: Возвращение в Чёрную Мезу
+}
+
+L5M1_TITLE
+{
+Глава 5: Внеземное вторжение
+}
+
+L5M1_TITLE1
+{
+Глава 5: Внеземное вторжение
+}
+
+
+// In-Game messages
+$position -1 0.65
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 240 110 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 2.0
+// How long it takes to fade out the message after holding
+$fadeout 0.5
+
+GAMESAVED
+{
+Сохранено...
+}
+
+
+
+// notes
+$position 0.1 0.6
+$effect 2
+// This is the final color
+$color 45 120 5
+// This is the highlight color
+$color2 100 100 100
+// This is the time it takes to fade each character
+$fadein 0.007
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.5
+// How long to hold the message on the screen (after it scans out)
+$holdtime 4.5
+// How long it takes to fade out the message after holding
+$fadeout 2
+
+
+//Titles d'INVASION
+
+$fadein 0.01
+$position -1 -1
+$holdtime 3.5
+$effect 1
+$color 128 128 128
+$fadeout 0.5
+
+
+$position -1 -1
+$effect 2
+// Final fade-in color
+$color 128 128 128
+// This is the highlight/flash color
+$color2 0 0 0
+$fadein 0.02
+$fadeout 0.5
+$holdtime 3
+
+
+END_TITLE1
+{
+Создано:
+}
+
+$effect 1
+$holdtime 3
+$fadein 1
+
+END_TITLE2
+{
+JujU
+Коддинг & Маппинг
+}
+
+
+END_TITLE3
+{
+Yagйro
+Моделирование & Маппинг
+}
+
+$effect 2
+$holdtime 2
+$fadein 0.02
+
+END_TITLE4
+{
+При содействии:
+}
+
+$effect 1
+$fadein 1
+
+END_TITLE5
+{
+D.X.M.
+Часть главы с танком
+}
+
+END_TITLE6
+{
+Fregman
+Графический дизайн, карты & модели
+}
+
+
+END_TITLE7
+{
+Manu
+Музыка и Эмбиенты
+}
+
+$effect 2
+$fadein 0.02
+
+END_TITLE8
+{
+Спасибо:
+}
+
+$effect 1
+$holdtime 2.5
+$fadein 1
+
+END_TITLE9
+{
+Berserk
+За перевод на испанский
+}
+
+END_TITLE10
+{
+Vegata & Manu
+За перевод на немецкий
+}
+
+END_TITLE11
+{
+Мастер Ужаса
+За перевод на русский
+}
+
+END_TITLE12
+{
+Zйnon
+За аудио материалы
+}
+
+END_TITLE13
+{
+Fmod за MP3 файлы
+www.fmod.com
+}
+
+END_TITLE14
+{
+Бета тестеры:
+}
+
+END_TITLE15
+{
+Choki
+}
+
+END_TITLE16
+{
+Chon666
+}
+
+END_TITLE17
+{
+R3ap3r
+}
+
+END_TITLE18
+{
+$pike
+}
+
+END_TITLE18bis
+{
+Q8-eur
+}
+
+END_TITLE19
+{
+Lily
+}
+
+$holdtime 6
+
+END_TITLE20
+{
+Спасибо также всем тем, кто советовал нас,
+поддерживал нас или подбадривал нас
+во время этого двух с половиной летнего приключения!
+}
+
+$holdtime 3
+
+END_TITLE21
+{
+Спасибо за игру в Half-Life Invasion
+}
+
+END_TITLE22
+{
+И вскоре с другим движком ;-)
+}
+
+$holdtime 10
+$fadein 3
+$fadeout 3
+
+
+END_TITLE23
+{
+Half-life : INVASION
+www.hl-invasion.fr.st
+}
+
+
+
+
+
+// l3m13
+
+$position -1 0.65
+$effect 2
+$color 100 100 100
+$color2 0 200 50
+$fadein 0.005
+$fxtime 0.5
+$holdtime 10
+$fadeout 1.5
+
+l3M13_access_code
+{
+Лейтенант, дверь открывается с помощью кода
+1715
+получит свой новый код через 3 часа, как и ожидалось.
+
+Поскольку новая ядерная ракета уже доставлена,
+я попрошу своих людей помочь вам обезопасить и удерживать позицию
+до тех пор, пока в ней не возникнет необходимость.
+}
+
+$holdtime 15
+
+l3M13_atomic
+{
+Добро пожаловать, новобранец.
+Из-за обстоятельств нашей миссии я не могу сообщить вам
+о ваших целях напрямую, поскольку я нужен в другом месте.
+
+От вас потребуется помочь людям лейтенанта охранять
+ядерную ракету от вражеских атак, обязательно обезопасьте
+склад с помощью кода
+3412.
+Этот код совершенно секретен, если вы расскажете его кому-либо,
+мы будем вынуждены применить к вам санкции.
+
+Командующий сектором
+}

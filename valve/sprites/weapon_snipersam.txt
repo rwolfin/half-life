@@ -1,0 +1,6 @@
+5
+weapon			640 weapon_snipersam	0	0	170	44
+weapon_s		640 weapon_snipersam	0	44	170	45
+ammo			640 weapon_snipersam	192	45	24	24
+crosshair		640 crosshairs	0	0	24	24
+d_snipersam		640 weapon_snipersam	0	240	48	16

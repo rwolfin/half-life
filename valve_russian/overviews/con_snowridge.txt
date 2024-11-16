@@ -1,0 +1,14 @@
+// overview description file for DocRock's con_snowridge.bsp
+//   Overview: Zoom 1.15, Map Origin (-750.44, 506.97, -832.0), Z Min 2337.00, Z Max -4001.00, Rotated 0
+global 
+{
+	ZOOM	1.15
+	ORIGIN	-750.44 506.97 -832.0
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/con_snowridge.bmp"
+	HEIGHT	-4001.00
+}

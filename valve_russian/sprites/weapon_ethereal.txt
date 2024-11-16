@@ -1,0 +1,6 @@
+5
+weapon			640 weapon_ethereal	0	0	170	45
+weapon_s		640 weapon_ethereal	0	45	170	45
+ammo			640 weapon_ethereal	146	201	24	24
+crosshair		640 crosshairs	48	48	24	24
+d_ethereal		640 weapon_ethereal	0	210	48	16

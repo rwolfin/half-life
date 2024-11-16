@@ -1,0 +1,651 @@
+// ***************************************
+// * Dialoge für Half-Life : INVASION *
+// *              in Deutsch            *
+// ***************************************
+
+//Traduction par Vegata  **  vegata@hotmail.com
+
+//© Copyright 2003-2004 HLInvasion Corporation. All Rights Reserved.
+
+//***************************************
+//map l1m1_a1 ; scientifique infirmerie *
+//***************************************
+
+L1M1_A1_SCI1
+{
+Ahh Gordon, endlich sind Sie erwachen !
+}
+
+L1M1_A1_SCI2
+{
+Sie sind in einer Ambulanz eines Laboratoriums anhängend der Black Mesa. Es ist der letzte Komplex, der noch nicht von den Marinen entdeckt worden ist, dennoch..
+}
+
+L1M1_A1_SCI3
+{
+..nun ja, meine Kollegen werden Ihnen das im Einzelnen erklären. Sie erwarten Sie schon im Testsaal.  
+}
+
+L1M1_A1_SCIZ
+{
+Meine Kollegen erwarten Sie, ..gehen Sie bitte in den Testsaal. 
+}
+
+//****************************
+//map l1m1_a2 ; barney porte *
+//****************************
+
+L1M1_A2_BAR1
+{
+Also heute sind Sie an der Reihe ! 
+}
+
+
+//******************************************
+//map l1m1_a2 ; scientifique salle de test *
+//******************************************
+
+L1M1_A2_SCI1
+{
+Ahh Gordon Freeman, ich habe auf Sie gewartet !!
+}
+
+L1M1_A2_SCI2
+{
+Es ist wirklich eins Wunder, Sie lebendig zu sehen, Gordon.
+}
+
+L1M1_A2_SCI3
+{
+Mit meiner Mannschaft gelang es uns, Sie zu lokalisieren, als Sie im Zug mit dem Verwalter waren.
+}
+
+L1M1_A2_SCI4
+{
+Dieser Verräter wollte Sie mit in ein extra-terrestrisch-geplagten Bereich teleportieren, in dem Sie nie überlebt hätten.
+}
+
+L1M1_A2_SCI5
+{
+Aber glücklicherweise haben wir es erreicht, eine Sonde rechtzeitig abzusenden, um Sie hierher zurückzubringen. Sie haben viel knappes Glück gehabt.
+}
+
+L1M1_A2_SCI6
+{
+Dieses Laboratorium siedelt sich ungefähr 15 km von Black Mesa, das sind 30 km Entfernung vom Lambada-Bereich aus. ..Ach und wir arbeiteten an der Teleportation von festen Körper.
+}
+
+L1M1_A2_SCI7
+{
+Es ist der einzige Komplex, der noch nicht von den Soldaten aufgedeckt worden ist, die von der Regierung gesendet wurden.
+}
+
+L1M1_A2_SCI8
+{
+Momentan suchen wir nach Mittel, Black Mesa durch Teleportation zu verbinden, denn wir haben dort fremde Signale aus dem Erdboden aufgefangen... 
+}
+
+L1M1_A2_SCI9
+{
+Wenn Sie wollen, kann ich Ihnen eine kleine Demonstration machen,.. schauen Sie !
+}
+
+L1M1_A2_SCI10
+{
+Warten Sie... Aber was ist denn nun jetzt, Nein! Das ist nicht möglich... 
+}
+
+
+//*******************************************
+//map l1m1_b1 ; scientifique l1m3 par radio *
+//*******************************************
+
+L1M1_B1_SCI1
+{
+Hallo ! ..Ist da jemand ? Freeman... sind sie das ? Welch ein Glück !
+}
+
+L1M1_B1_SCI2
+{
+Ich dachte nicht dass jemand die Idee hatte, diese Einstellungen vorher zu wählen.
+}
+
+L1M1_B1_SCI3
+{
+Ich werde mich in einem Informatiksaal im dritten Stockwerk versteckt. Ich hoffe, dass die Marinen mich dort nicht finden...
+}
+
+L1M1_B1_SCI4
+{
+Von hier aus kann ich Ihnen die Tür eines Lagerraumes öffnen, wo Sie zweifellos eine Handwaffe finden werden, um sich verteidigen zu können.
+}
+
+L1M1_B1_SCI5
+{
+Warten Sie... Na also, sie ist offen.. aber machen Sie schnell und kommen Sie zurück, bevor sie mich finden.
+}
+
+//*************************
+//map l1m3 ; scientifique *
+//*************************
+
+L1M3_SCI1
+{
+Gordon ! haben Sie es erreicht die Zone zu reinigen?
+}
+
+L1M3_SCI2
+{
+Ich bin im kleinen Saal versteckt, aber ich kann die Tür nicht öffnen von innere. Es muss einen Knopf geben unter den Rechnern.
+}
+
+L1M3_SCI3
+{
+Ah Freeman Sie sind es ! Ich habe mich hier soeben vor der Invasion der Marinen versteckt.
+}
+
+L1M3_SCI4
+{
+Glücklicherweise hat Ihr neuer Anzug ein Radiosignal. Andernfalls könnte ich nie in der Lage sein, eine Verbindung mit Ihnen zu verknüpfen...
+}
+
+L1M3_SCI5
+{
+Aber wir haben die Zeit noch nicht gehabt, eine Stablampe zu integrieren auf diesen Prototyp. Warten Sie, das ist ein Feuerzeug, ..kann Ihnen nützlich sein.
+}
+
+L1M3_SCI6
+{
+Einige von meinen Kollegen sind aufgebrochen zur Oberfläche. Sie sollten das selbe tun.
+}
+
+L1M3_SCI7
+{
+Ich denke nicht, dass Sie das Kennwort kennen, um aus diesem Laboratorium herauszukommen. 
+}
+
+L1M3_SCI8
+{
+Sie werden davon Bedürfnis haben, wenn Sie an die Oberfläche folgen wollen. Es ist "8533".  
+}
+
+L1M3_SCI9
+{
+Ich denke alle anderen sind tot, aber ich bleibe hier, falls es noch Überlebende geben sollte...  Viel Glück Herr Freeman !
+}
+
+L1M3_SCIZ
+{
+Wenn Sie dieses Laboratorium verlassen wollen, dann lautet der Code "8533". 
+}
+
+//****************************************
+//map l1m6 ; scientifique l1m3 par radio *
+//****************************************
+
+L1M6_SCI1
+{
+Freeman, um zur Oberfläche zu kommen und den Hubschrauber-Landeplatz wieder zu treffen, Dann müssen Sie durch die Ventilationsschächte gehen. 
+}
+
+L2M1_SCI1
+{
+Übrigens, alle anderen sind gestorben. Die Soldaten kontrollierten bereits den Hubschrauber-Landeplatz.
+}
+
+L2M1_SCI2
+{
+Sie können das Verwaltungsgebäude erreichen, indem sie diese Richtung fortfahren. Es gibt jede Wahrscheinlichkeit, dass Sie Überlebende dort finden.
+}
+
+
+//*******************
+//map l2m6 ; barney *
+//*******************
+
+L2M6_BAR1
+{
+Freeman, wir stecken fest in diesem Hangar !!
+}
+
+L2M6_BAR2
+{
+Die Marinen haben die zwei Ausgangstore blockiert, ..Kontrolle ist vergebens.
+}
+
+L2M6_BAR3
+{
+Warten Sie! Es gibt vielleicht ein Mittel herauszukommen.
+}
+
+L2M6_BAR4
+{
+Es gibt einen Raum, der einige TNT-Kisten enthält. Nutzten Sie sie um ein Tor des Hangars zu sprängen.
+}
+
+L2M6_BAR5
+{
+Öffnungskontrollen der Tür dieses Platzes sind in dem folgendem Raum.
+}
+
+L2M6_BAR6
+{
+Der Sicherheitscode für die Öffnung ist "4274" ..Beeilung!!
+}
+
+L2M6_BAR7
+{
+Halt, ich habe was vergessen saya! Ich habe eine Beretta bei einem Soldaten gefunden, Sie werden davon mehr Gebrauch machen als ich.
+}
+
+L2M6_BARZ
+{
+Gordon, Sie müssen ein Tor sprengen mit den TNT-Kisten ! Der Code ist "4274".
+}
+
+L2M6_BARZ2
+{
+Glückwünsche Gordon, sie können aus Ihrer Presents hinaus. Ich ziehe es vor, hier zu bleiben, um den anderen zu helfen.
+}
+
+
+//*************************
+//map l3m1 ; scientifique *
+//*************************
+
+L3M1_SCI1
+{
+Freeman, sind Sie das ?
+}
+
+L3M1_SCI2
+{
+Wir sind am Eingang eines Verwaltungsgebäudes, dass in den Angriff genommen worden ist von den Marinen. Es dient ihnen als Militärlager. 
+}
+
+L3M1_SCI3
+{
+Dieses Gebäude wird extrem gut geschützt. Wenn Sie uns begegnen, dann sicherlich mit Elite-Schützen oder mit Abschussgeräte wie Raketenwerfern. 
+}
+
+L3M1_SCI4
+{
+Meiner Meinung nach hat die Regierung genausoviel Militärkräfte entfaltet, dass es ausreicht den Verwalter zu schützen, der im Gebäude sein muss. 
+}
+
+L3M1_SCI5
+{
+Einer meiner Kollegen wollte mit Ihnen sprechen, aber wir sind getrennt worden, und er versteckt sich jetzt im Gebäude.
+}
+
+L3M1_SCI6
+{
+Gordon das einzige Mittel, da durchzukommen wird die Diskretion sein...
+}
+
+L3M1_SCI7
+{
+Ich habe einen Übermittler. Wenn Sie wollen, bin ich in der Lage, Sie anzurufen, wenn Sie vor dem Gebäude sind.
+}
+
+L3M1_SCIZ
+{
+Viel Glück Herr Freeman.
+}
+
+
+//*************************
+//map l3m2 ; scientifique *
+//*************************
+
+L3M2_SCI1
+{
+Gordon, denken sie an die Sniper-Schützen !!
+}
+
+L3M2_SCI2
+{
+Gordon, vorallem, lassen sie sich nicht von den Überwachungskameras erwischen !!!
+}
+
+
+//*****************
+//map l3m5 ; gman *
+//*****************
+
+L3M5_GMAN1
+{
+Er ist hier !
+}
+
+L3M5_GMAN2
+{
+Glückwunsch Herr Freeman! Sie haben sich gegen gute Männer geschlagen. 
+}
+
+L3M5_GMAN3
+{
+Aber ich befürchte für Sie, dass Sie noch nicht am Ende Ihrer Überraschungen sind.
+}
+
+L3M5_GMAN4
+{
+Ich glaube nicht, dass Sie am Laufenden sind, was sich in Black Mesa ereignet.
+}
+
+L3M5_GMAN5
+{
+Einige Alien-Kolonien, die durch den Tod des Nihilanth geschwächt wurden, haben begonnen, auf Massen zurückzutreten, um unsere Angriffe zu entgehen.
+}
+
+L3M5_GMAN6
+{
+Angesichts der Wendung der Ereignisse habe ich beschlossen, meine Truppen zurückzuziehen von der Eroberung Xen's. Die Stichprobe ist zerstört worden, um das Letzte Tor zu schließen.
+}
+
+L3M5_GMAN7
+{
+Aber die Aliens hatten die Zeit gehabt, wieder eine Stichprobe herzustellen, nachdem sie eine Basis auf der Erde gebaut hatten.
+}
+
+L3M5_GMAN8
+{
+Es sind jetzt sie, die die letzte Stichprobe besitzen, und es liegt daran, dass das Tor gegen Xen noch offen ist.
+}
+
+L3M5_GMAN9
+{
+Sie wissen Herr Freeman, ich sage Ihnen all das, obwohl ich weiss, dass Sie nie es vor Ihren eigenen Augen sehen.
+}
+
+L3M5_GMAN10
+{
+Ich werde mit Ihnen ehrlich sein. Ich habe Ihnen bereits eine Chance gegeben, aber ich befürchte jetzt, dass Ihre Stunde nah ist...
+}
+
+L3M5_GMAN11
+{
+Jetzt heisst es Abschied, Gordon. Sie bildeten einen starken Eindruck in mir...
+}
+
+//*********************************
+//map l3m8 ; scientifique du tank *
+//*********************************
+
+L3M8_SCI1
+{
+Freeman, mindestens sind Sie hier! Betrachten Sie diese Soldaten so, dass sie dachten, dass sie in der Lage waren, mich zu töten...
+}
+
+L3M8_SCI2
+{
+Gordon, wenn das Militär die Hand auf die letzten Stichprobe stellen, wird das Tor unter ihrer Kontrolle sein.
+}
+
+L3M8_SCI3
+{
+Wir müssen endgültiges diesen Zwischenfall beenden. Die Stichprobe muß zerstört zu werden.
+}
+
+L3M8_SCI4
+{
+Sie müssen sich zu Black Mesa vor den Marinen begeben. Ich denke, dass ich  Ihnen einen kleinen Handgriff geben kann.
+}
+
+L3M8_SCI5
+{
+Steigen Sie herab, Gordon, ich werde Ihnen das Tor des Hangars öffnen.
+}
+
+L3M8_SCI6
+{
+Dieser Träger ist noch ein Prototyp, aber ich denke, dass er verkehrssicher ist.
+}
+
+L3M8_SCIZ
+{
+Treffen Sie nach Black Mesa mittels des Tanks wieder zurück. 
+}
+
+//*********************************
+//map l4m6 ; scientique survivant *
+//*********************************
+
+L4M6_SCI1
+{
+Freeman, kommen Sie, beeilen Sie sich !
+}
+
+L4M6_SCI2
+{
+Danken Sie Gott, dass sie lebendig sind ! Ich glaubte, dass ich der einzige war, der überlebt hatte.
+}
+
+L4M6_SCI3
+{
+Ich arbeitete am Komplex, bei dem man Sie lebendig ins Heimatland zurückgeführt hatte. Ich wurde hierher teleportiert, um die organischen Bewegungen zu überwachen. Aber niemand konnte mich zurückkommen lassen. 
+}
+
+L4M6_SCI4
+{
+Es ist der einzige Raum, der nicht durch Ausserierdischen eingedrungen worden ist. Es ist ein Steuerlabor des Testraumes, dort wo alles begonnen hat
+}
+
+L4M6_SCI5
+{
+Die Aliens sind erneut in die Black Mesa eingedrungen. Dank diesen Bildschirmen konnte ich sehen, dass es eine Alien-Basis an Kilometern Tiefe unter dem Testraum gibt. 
+}
+
+L4M6_SCI6
+{
+Diese Kreaturen besitzen die letzte bestehende Stichprobe, was erklärt, weswegen das Tor gegen Xen noch offen ist. 
+}
+
+L4M6_SCI7
+{
+Mit dieser Stichprobe werden die Ausserirdischen die Eroberung der Erde beenden können, das ist sicherheit. 
+}
+
+L4M6_SCI8
+{
+Das einzige Mittel allein, diese Invasion anzuhalten besteht darin, die Stichprobe zu zerstören. Und angesichts Ihres Militärarsenals glaube ich, dass Sie die Person allein sind, die fähig ist, diese Aufgabe zu erfüllen.
+}
+
+L4M6_SCI9
+{
+Die alienne Basis wird durch unzerstörbare  Membrane geschützt. Aber von hier kann ich das System betätigen, um zu versuchen es zu durchbohren.
+}
+
+L4M6_SCI10
+{
+Ich werde den Lift bereitmachen. Beeilen Sie sich zum Lift, Gordon. Einmal vor Ort werde ich Ihnen nötige Instruktionen mitteilen. 
+}
+
+L4M6_SCIZ
+{
+Gordon nehmen Sie den Aufzug, er wird Sie zum Testsaal führen. 
+}
+
+//*********************************************************
+//map l4m7 ; scientique survivant (voix par haut-parleur) *
+//*********************************************************
+
+L4M7_SCI1
+{
+Ah Gordon ! .. Ich sehe Sie ! 
+}
+
+L4M7_SCI2
+{
+Ich stimmte das Antimasse-Spektrometer bei 230 Prozent ab. Mit dieser Rate widersteht das System nur einigen Sekunden. Sie dürfen auf keinen Fall zögern, alles klar Gordon?
+}
+
+L4M7_SCI3
+{
+Exzellent, dann sollte es reibungslos ablaufen, ..klettern Sie jetzt hinauf und schalten Sie schnell die Rotoren ein !!
+}
+
+L4M7_SCIZ
+{
+Gordon... , steigen Sie jetzt auf und setzen sie die Rotoren in Gang !!
+}
+
+L4M7_SCI4
+{
+Ich gehe nun um das Verfahren zu beginnen. ..Freeman, sobald die Membrane geöffnet sind, springen Sie unwiderruflich in den Abgrund.
+}
+
+L4M7_SCI5
+{
+Achtung ! Bereiten Sie sich vor...
+}
+
+L4M7_SCI6
+{
+JETZT!!!     ..schnell Freeman, springen Sie !!!
+}
+
+L4M7_SCI7
+{
+..NEIN!!!!!!!!
+}
+
+
+
+//************************
+//INFOS DE LA COMBINAISON*
+//************************
+
+GIVESUIT
+{
+Guten Tag und Willkommen in Ihrerm Schutzanzug 
+}
+
+GIVEMEDKIT
+{
+Ihr Anzug erlaubt es, bis zu 9 Pflegekoffern für einen späteren Gebrauch zu lagern. Sie können sie durch den "t"-Auftrag aktivieren - "Pflegekoffer zu benutzen". 
+}
+
+GIVEBATTERY
+{
+Die Rüstungsbatterien können gelagert und durch den Auftrag "B" aktiviert werden "Batterie" oder "S" zu benutzen "Pflege pro Zone", um das zu pflegende Glied zu wählen. 
+}
+
+GIVECROWBAR
+{
+Sie haben eine Handwaffe genommen. "Melee" Kategorie.
+}
+
+GIVEBRIQUET
+{
+Sie haben ein Feuerzeug genommen. "Melee" Kategorie.
+}
+
+GIVE9MMANDGUN
+{
+Sie haben eine Glock 9mm Kaliber genommen. "pistols" Kategorie.
+}
+
+GIVEBERETTA
+{
+Sie haben eine Beretta 9mm Kaliber . "pistols" Kategorie.
+}
+
+GIVEIRGUN
+{
+Sie haben eine Pistole mit Infrarotvisier 5mm Kaliber genommen. "pistols" Kategorie.
+}
+
+GIVE9MMAR
+{
+Sie haben eine MP5 9mm Kaliber genommen. "rifles" Kategorie.
+}
+
+GIVESHOTGUN
+{
+Sie haben eine Shotgun 12mm Kaliber genommen. "rifles" Kategorie.
+}
+
+GIVEM16
+{
+Sie haben einen M16 Granatenwerfer 5.56mm genommen. "rifles" Kategorie.
+}
+
+GIVESNIPER
+{
+Sie haben eine Gun mit Visier 0.338mm Kaliber genommen. "heavy" Kategorie.
+}
+
+GIVERPG
+{
+Sie haben eine Raketenwerfer mit Zielblockierung genommen. "heavy" Kategorie.
+}
+
+GIVEELECTROROCKET
+{
+Sie haben eine elektronische Rakete genommen, die mit Ihrer Raketeabschussrampe kompatibel ist. Seine magnetische horizontale Explosion kann Beschädigungen durch Wände verursachen. 
+}
+
+GIVENUCLEARROCKET
+{
+Sie haben eine Kernrakete genommen, die mit Ihrer Raketeabschussrampe kompatibel ist. Seine Atomexplosion erzeugen tödliche Strahlungen im Radius von 100 m. 
+}
+
+GIVESUPERGUN
+{
+Sie haben ein elektromagnetisches Minigun genommen. "heavy" Kategorie.
+}
+
+GIVELFLAMMES
+{
+Sie haben den Flammenwerfer der Gargantuas genommen. "heavy" Kategorie.
+}
+
+GIVEGRENADE
+{
+Sie haben eine Handgrenate genommen. "explosives" Kategorie.
+}
+
+GIVEFRAG
+{
+Sie haben eine Splittergranate genommen. "explosives" Kategorie.
+}
+
+GIVESATCHEL
+{
+Sie haben einen ferngesteuerten Explosivstoff genommen. "explosives" Kategorie.
+}
+
+GIVETRIPMINE
+{
+Sie haben eine Miene mit einem Laser Auslöser genommen. "explosives" Kategorie.
+}
+
+!GIVEGAZ
+{
+Sie haben eine Gasmaske genommen.
+}
+
+L2M1_TANK
+{
+TANK: Primärfeuer, zum Schiessen. Sprungsanschlag, um die Kontrolle anzuhalten.
+}
+
+LE_TANK
+{
+TANK : Feuer für die Richtung. Primär- und Sekundärfeuer. Verwenden Sie den Anschlag, um die Steuerung zu stoppen.
+}
+
+TANK_RESTORE
+{
+Bestimmte Zonen erlauben Ihnen, Ihren Tank wieder aufzuladen. Beachten Sie die Markierungen am Boden. 
+}
+
+
+//German dialogues for the Half-Life Modifikation: "Half-life : INVASION" 
+//by B.Christoph FASEL  email: vegata@hotmail.com
+//Half-Life : INVASION homepage and email: www.hl-invasion.fr.st  ***  hlinvasion@free.fr
+//© Copyright 2003-2004 HLInvasion Corporation. All Rights Reserved.
+
+
+

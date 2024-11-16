@@ -1,0 +1,7 @@
+6
+weapon			640 weapon_sbc	0	0	170	45
+weapon_s		640 weapon_sbc	0	45	170	45
+ammo			640 weapon_sbc	192	44	25	25
+crosshair		640 crosshairs	72	48	24	24
+d_sbc			640 weapon_sbc	0	240	48	16
+d_cannonball		640 weapon_sbc	0	240	48	16

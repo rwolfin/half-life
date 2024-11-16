@@ -1,0 +1,59 @@
+"filters"
+{
+	"favorites"
+	{
+		"0"
+		{
+			"name"		"Shadow Zone"
+			"address"	"91.143.134.192:27001"
+			"lastplayed"	"1727872941"
+			"appID"		"0"
+		}
+
+		"1"
+		{
+			"name"		"Shadow Zone"
+			"address"	"91.143.134.192:27000"
+			"lastplayed"	"1728218116"
+			"appID"		"0"
+		}
+
+	}
+
+	"history"
+	{
+		"0"
+		{
+			"name"		"Shadow Zone"
+			"address"	"91.143.134.192:27001"
+			"lastplayed"	"1727872957"
+			"appID"		"0"
+		}
+
+		"1"
+		{
+			"name"		"Shadow Zone"
+			"address"	"91.143.134.192:27000"
+			"lastplayed"	"1728129117"
+			"appID"		"0"
+		}
+
+		"2"
+		{
+			"name"		"192.168.0.105:27015"
+			"address"	"192.168.0.105:27015"
+			"lastplayed"	"1728403197"
+			"appID"		"0"
+		}
+
+		"3"
+		{
+			"name"		"192.168.0.108:27015"
+			"address"	"192.168.0.108:27015"
+			"lastplayed"	"1728493609"
+			"appID"		"0"
+		}
+
+	}
+
+}

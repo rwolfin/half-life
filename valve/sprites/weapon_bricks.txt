@@ -1,0 +1,6 @@
+5
+weapon			640 weapon_bricks	0	0	170	44
+weapon_s		640 weapon_bricks	0	45	170	44
+ammo			640 weapon_bricks	192	45	25	24
+crosshair		640 crosshairs	48	0	24	24
+d_bricks		640 weapon_bricks	0	239	48	17

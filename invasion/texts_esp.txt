@@ -1,0 +1,638 @@
+// ***************************************
+// * Dialogues pour Half-Life : INVASION *
+// *              Fichier espagnol       *
+// ***************************************
+
+//Traduction par Berserk
+
+//© Copyright 2003-2004 HLInvasion Corporation. All Rights Reserved.
+
+
+//***************************************
+//map l1m1_a1 ; scientifique infirmerie *
+//***************************************
+
+
+
+L1M1_A1_SCI1
+{
+Gordon, por fin has despertado.
+}
+
+L1M1_A1_SCI2
+{
+Te encuentras en la enfermería de un laboratorio anexo a Black Mesa. Es el único que no han descubierto los marines.
+}
+
+L1M1_A1_SCI3
+{
+Bueno, mis colegas te explicarán todo con más detalle. Te estan esperando en la sala de test del laboratorio.
+}
+
+L1M1_A1_SCIZ
+{
+Mis compañeros te esperan en la sala de test. Ve para allá.
+}
+
+//****************************
+//map l1m1_a2 ; barney porte *
+//****************************
+
+L1M1_A2_BAR1
+{
+¡Entonces, hoy es tu turno!
+} 
+
+//******************************************
+//map l1m1_a2 ; scientifique salle de test *
+//******************************************
+
+L1M1_A2_SCI1
+{
+¡Ah, Gordon! Te estaba esperando.
+}
+
+L1M1_A2_SCI2
+{
+Gordon, verdaderamente eres afortunado en seguir vivo.
+}
+
+L1M1_A2_SCI3
+{
+Con mi equipo, hemos logrado localizarte cuando estabas en el vagón junto a G-Man.
+}
+
+L1M1_A2_SCI4
+{
+Ese traidor estaba a punto de teletransportarte a una zona infestada de extraterrestres de la cual, jamás hubieras salido vivo.
+}
+
+L1M1_A2_SCI5
+{
+Pero afortunadamente, conseguimos enviar una sonda a tiempo para poder traerte aquí. Tuvistes mucha suerte.
+}
+
+L1M1_A2_SCI6
+{
+Este laboratorio está situado a 15 kilómetros de Black Mesa y a 30 kilómetros del sector LAMBDA. Aquí nos encargamos de la teletransportación de cuerpos sólidos.
+}
+
+L1M1_A2_SCI7
+{
+Es el único complejo que por el momento no han descubierto los soldados enviados por el gobierno.
+}
+
+L1M1_A2_SCI8
+{
+Actualmente, buscamos un medio para volver a Black Mesa mediante la teletransportación, porque interceptamos inusuales movimientos terrestres por allí...
+}
+
+L1M1_A2_SCI9
+{
+Si lo desea le mostraré una pequeña demostración. Observe...
+}
+
+L1M1_A2_SCI10
+{
+Espere... Pero, ¿qué es eso? ¡No! No es posible...
+}
+
+//*******************************************
+//map l1m1_b1 ; scientifique l1m3 par radio *
+//*******************************************
+
+L1M1_B1_SCI1
+{
+¡Hola! ¿Es qué nadie me recibe? ¡Freeman! ¡Eres tú! ¡Menuda suerte!
+}
+
+L1M1_B1_SCI2
+{
+No llegué a pensar que nadie tuviera la idea de ponerse esta armadura.
+}
+
+L1M1_B1_SCI3
+{
+Me escondí en una sala con ordenadores del tercer piso. Esperaba que los marines no me encontraran...
+}
+
+L1M1_B1_SCI4
+{
+Desde aquí abriré la puerta de un pequeño almacén. Dentro encontrarás un arma de mano, para poder defenderte.
+}
+
+L1M1_B1_SCI5
+{
+Espera un momento... Hecho, ya está abierta. Date prisa Freeman, reúnete conmigo o acabarán por encontrarme.
+}
+
+//*************************
+//map l1m3 ; scientifique *
+//*************************
+
+L1M3_SCI1
+{
+¡Gordon! ¿Has logrado limpiar la zona?
+}
+
+L1M3_SCI2
+{
+Me escondí dentro de una pequeña habitación, pero no puedo abrir la puerta desde el interior. Seguramente debe haber un botón entre los ordenadores.
+}
+
+L1M3_SCI3
+{
+¡Freeman, está aquí ! Me escondí aquí antes de la invasión de los marines.
+}
+
+L1M3_SCI4
+{
+Afortunadamente, tu nueva armadura tiene una radio. Sin ella, no hubiera podido entrar en contacto contigo...
+}
+
+L1M3_SCI5
+{
+Pero no tuvimos tiempo para integrar en este prototipo una linterna de seguridad. Espera mira esto, un encendedor, podrá serte útil.
+}
+
+L1M3_SCI6
+{
+Algunos compañeros han intentado regresar a la superficie. Deberías hacer lo mismo.
+}
+
+L1M3_SCI7
+{
+Creo que no sabes la contraseña para salir de este laboratorio.
+}
+
+L1M3_SCI8
+{
+La necesitarás para salir a la superficie. Es 8533.
+}
+
+L1M3_SCI9
+{
+Lo más probable es que todos los demás esten muertos, pero me quedaré aquí en el caso de que hubiera supervivientes... Buena suerte Freeman.
+}
+
+L1M3_SCIZ
+{
+Si quieres salir de este laboratorio, la combinación es 8533.
+}
+
+//****************************************
+//map l1m6 ; scientifique l1m3 par radio *
+//****************************************
+
+
+L1M6_SCI1
+{
+Freeman, para subir hasta la superficie e ir hasta el helipuerto, tendrás que pasar por los conductos de ventilación.
+}
+
+L2M1_SCI1
+{
+Aparentemente, los otros estan muertos. Los militares ya controlaban el helipuerto.
+}
+
+L2M1_SCI2
+{
+Podrá llegar hasta los edificios administrativos siguiendo esta dirección. Allí tendrá más posibilidades de encontrar supervivientes.
+}
+
+//*******************
+//map l2m6 ; barney *
+//*******************
+
+L2M6_BAR1
+{
+¡Freeman, estamos atrapados en este hangar!
+}
+
+L2M6_BAR2
+{
+Los marines han bloqueado las dos puertas de salida. Los controles para abrirlas estan inutilizables.
+}
+
+L2M6_BAR3
+{
+¡Un momento! Es posible que haya otra manera de salir.
+}
+
+L2M6_BAR4
+{
+Hay una habitación que almacena algunas cajas con TNT. Te pueden servir para hacer explosionar una puerta del hangar.
+}
+
+L2M6_BAR5
+{
+Los controles para abrir esta puerta estan en una habitación cercana.
+}
+
+L2M6_BAR6
+{
+El código de seguridad para abrirla es 4274. ¡Rapido!
+}
+
+L2M6_BAR7
+{
+¡Espera, olvidaba algo! He encontrado una beretta en un soldado, te será más útil que a mí.
+}
+
+L2M6_BARZ
+{
+¡Gordon, has explotar una puerta del hangar con las cajas de TNT! El código es 4274.
+}
+
+L2M6_BARZ2
+{
+Felicitaciones Gordon, ahora podrás salir. Yo prefiero quedarme aquí y ayudar a los demás supervivientes.
+}
+
+//*************************
+//map l3m1 ; scientifique *
+//*************************
+
+L3M1_SCI1
+{
+Freeman, ¡eres tú!
+}
+
+L3M1_SCI2
+{
+Estamos a la entrada de un edificio administrativo que fue atacado por los marines. Les sirve como base militar.
+}
+
+L3M1_SCI3
+{
+Este edificio está extremadamente protegido. Si sales seguramente serás abatido por los francotiradores o por los lanzacohetes de los soldados.
+}
+
+L3M1_SCI4
+{
+En mi opinión, el gobierno ha desplegado tantas fuerzas militares para proteger a G-Man, que debe estar en el edificio.
+}
+
+L3M1_SCI5
+{
+Uno de mis compañeros quiere decirte algo, pero fuimos separados, y ahora está escondido en algún lugar del edificio.
+}
+
+L3M1_SCI6
+{
+Gordon, el único medio de entrar ahí será la discreción...
+}
+
+L3M1_SCI7
+{
+Estoy equipado con una emisora de radio, podré llamarle cuando esté frente al edificio.
+}
+
+L3M1_SCIZ
+{
+Suerte Freeman.
+}
+
+//*************************
+//map l3m2 ; scientifique *
+//*************************
+
+L3M2_SCI1
+{
+Gordon, ¡cuidado con los francotiradores!
+}
+
+L3M2_SCI2
+{
+¡Gordon, sobre todo, no debes ser localizado por las cámaras de vigilancia!
+}
+
+//*****************
+//map l3m5 ; gman *
+//*****************
+
+L3M5_GMAN1
+{
+¡Está aquí!
+}
+
+L3M5_GMAN2
+{
+¡Felicitaciones, señor Freeman! Luchó con mis mejores hombres.
+}
+
+L3M5_GMAN3
+{
+Pero me temo que usted no se rendirá a pesar de las sorpresas.
+}
+
+L3M5_GMAN4
+{
+Pienso que usted no está al tanto de lo que ocurre en Black Mesa.
+} 
+
+L3M5_GMAN5
+{
+Algunas colonias alienígenas, debilitadas por la muerte del Nihilanth, empezaron a exiliarse en la Tierra para escapar de nuestros ataques.
+}
+
+L3M5_GMAN6
+{
+Frente a estos acontecimientos, decidí retirar mis tropas tras la conquista de Xen. La muestra fue destruida para cerrar el último portal.
+}
+
+L3M5_GMAN7
+{
+Pero los aliens tuvieron tiempo para crear una nueva muestra después de haber construido una base en la Tierra.
+}
+
+L3M5_GMAN8
+{
+Ahora, son ellos los que tienen la última muestra, y es por esto que el portal hasta Xen está todavía abierto.
+}
+
+L3M5_GMAN9
+{
+¿Sabe qué, señor Freeman? Le he dicho todo esto porque no lo verá con sus propios ojos.
+}
+
+L3M5_GMAN10
+{
+Seré honesto con usted. Ya le dí una oportunidad, pero su hora está cerca...
+}
+
+L3M5_GMAN11
+{
+Adiós, Gordon. Me habrías impresionado mucho...
+}
+
+//*********************************
+//map l3m8 ; scientifique du tank *
+//*********************************
+
+L3M8_SCI1
+{
+¡Freeman, por fin! Mire a estos soldados, pensaban que podían matarme...
+}
+
+L3M8_SCI2
+{
+Gordon, si los militares echan la mano a la última muestra, controlarán el portal.
+}
+
+L3M8_SCI3
+{
+Tenemos que poner fin a este incidente. La muestra debe ser destruida.
+}
+
+L3M8_SCI4
+{
+Debes ir a Black Mesa antes que los marines. Creo que puedo ayudarte.
+}
+
+L3M8_SCI5
+{
+Baja, Gordon, abriré la puerta del hangar.
+}
+
+L3M8_SCI6
+{
+Este vehículo es todavía un prototipo, pero pienso que puede funccionar.
+}
+
+L3M8_SCIZ
+{
+Dirígete hacia Black Mesa con la ayuda del tanque.
+}
+
+//*********************************
+//map l4m6 ; scientique survivant *
+//*********************************
+
+L4M6_SCI1
+{
+¡Freeman, entra, rápido !
+}
+
+L4M6_SCI2
+{
+¡Gracias a Dios que está vivo! Yo creía que era el único superviviente.
+}
+
+L4M6_SCI3
+{
+Trabajaba en el complejo en el que usted fue rescatado vivo. Fuí teletransportado aquí para vigilar los movimientos orgánicos. Pero nadie pudo hacerme regresar.
+}
+
+L4M6_SCI4
+{
+Es la única sala que no fue tomada por los extraterrestres. Es un laboratorio de control de la sala para test, en la que todo empezó.
+}
+
+L4M6_SCI5
+{
+Los aliens invadieron de nuevo Black Mesa. Gracias a esas pantallas, pude ver que existe una especie de base alienígena, a kilómetros de profundidad bajo la sala de test.
+}
+
+L4M6_SCI6
+{
+Estas criaturas tienen la última muestra, y eso explica porque el portal hasta Xen está todavía abierto.
+}
+
+L4M6_SCI7
+{
+Con esta muestra, los extraterrestres terminaron invadiendo la Tierra, estoy seguro de eso.
+}
+
+L4M6_SCI8
+{
+El único manera de detener esta invasión es la de destruir la muestra. Con su arsenal militar, creo que es la única persona capaz de cumplir esta misión.
+}
+
+L4M6_SCI9
+{
+La base alienígena está protegida por una membrana indestructible. Pero desde aquí, puedo activar el sistema para intentar perforarla.
+}
+
+L4M6_SCI10
+{
+Desbloquearé el ascensor. Rápido, Gordon. Cuando esté ahí, le comunicaré las instrucciones.
+}
+
+L4M6_SCIZ
+{
+Gordon, coja el ascencor y vaya hasta el aula de test.
+} 
+
+//*********************************************************
+//map l4m7 ; scientique survivant (voix par haut-parleur) *
+//*********************************************************
+
+L4M7_SCI1
+{
+¡Ah Gordon! ¡Te puedo ver!
+}
+
+L4M7_SCI2
+{
+He puesto el espectómetro de antimateria al 230 por ciento. A este ritmo, el sistema no aguantará más que unos cuantos segundos. Habrá que hacerlo muy rápido Gordon.
+}
+
+L4M7_SCI3
+{
+Bueno, todo parece normal. Ahora, suba y active los rotores.
+}
+
+L4M7_SCIZ
+{
+Gordon, ¡suba y active los rotores!
+}
+
+L4M7_SCI4
+{
+Pondré el proceso en marcha. Freeman, en cuanto la membrana esté abierta, saltará hacia la cavidad.
+}
+
+L4M7_SCI5
+{
+¡Atención! Prepárese.
+}
+
+L4M7_SCI6
+{
+¡Ahora! ¡Rápido, Freeman! ¡Salte!
+}
+
+L4M7_SCI7
+{
+¡¡¡¡¡¡Nooo!!!!!!
+}
+
+//************************
+//INFOS DE LA COMBINAISON*
+//************************
+
+GIVESUIT
+{
+Buenos días y bienvenido en su armadura de protección.
+}
+
+GIVEMEDKIT
+{
+Su armadura le permite almacenar hasta 9 maletines médicos para utilizarlos posteriormente. Puede activarlo presionando la tecla T - "utilizar maletín médico".
+}
+
+GIVEBATTERY
+{
+Las baterías de armadura pueden ser recargadas, y activadas por la tecla B "utilizar batería" o S "cura por zona" para eligir el miembro a curar.
+}
+
+GIVECROWBAR
+{
+Has recogido un arma de mano. Categoría "melee".
+}
+
+GIVEBRIQUET
+{
+Has recogido un encendedor. Categoría "melee".
+}
+
+GIVE9MMANDGUN
+{
+Has recogido una glock del calibre 9mm. Categoría "pistols".
+}
+
+GIVEBERETTA
+{
+Has recogido una beretta del calibre 9mm. Categoría "pistols".
+}
+
+GIVEIRGUN
+{
+Has recogido un revólver con infrarrojo del calibre 5mm. Categoría "pistols".
+}
+
+GIVE9MMAR
+{
+Has recogido un MP5 del calibre 9mm. Categoría "rifles".
+}
+
+GIVESHOTGUN
+{
+Has recogido una escopeta del calibre 12mm. Categoría "rifles".
+}
+
+GIVEM16
+{
+Has recogido un M16 con lanzagranadas del calibre 5.56mm. Categoría "rifles".
+}
+
+GIVESNIPER
+{
+Has recogido un rifle francotirador del calibre 0.338mm. Categoría "heavy".
+}
+
+GIVERPG
+{
+Has recogido un lanzacohetes. Categoría "heavy".
+}
+
+GIVEELECTROROCKET
+{
+Has recogido un misil de impulso eléctrico compatible con tu lanzacohetes. Su explosión magnética horizontal puede dañar a través de los muros.
+}
+
+GIVENUCLEARROCKET
+{
+Has recogido un misil nuclear compatible con tu lanzacohetes. Su explosión atómica causa radiaciónes mortales hasta 100 metros a la redonda.
+}
+
+GIVESUPERGUN
+{
+Has recogido una minigun electromagnética. Categoría "heavy".
+}
+
+GIVELFLAMMES
+{
+Has recogido un lanzallamas. Categoría "heavy".
+}
+
+GIVEGRENADE
+{
+Has recogido una granada. Categoría "explosives".
+}
+
+GIVEFRAG
+{
+Has recogido una granada de fragmentación. Categoría "explosives".
+}
+
+GIVESATCHEL
+{
+Has recogido una carga explosiva por radiocontrol. Categoría "explosives".
+}
+
+GIVETRIPMINE
+{
+Has recogido una mina. Categoría "explosives".
+}
+
+!GIVEGAZ
+{
+Has recogido una máscara de gas.
+}
+
+L2M1_TANK
+{
+TANK : Disparo primario para abrir fuego. La tecla "salto" para parar el control.
+}
+
+LE_TANK
+{
+TANK : Desplazamientos laterales para la dirección. Disparo primario y secundario. Tecla "utilizar" para salir.
+}
+
+TANK_RESTORE
+{
+En algunas zonas, puedes recargar tu tanque. Están señaladas por este signo en el suelo.
+}

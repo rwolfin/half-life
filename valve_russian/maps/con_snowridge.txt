@@ -1,0 +1,77 @@
+Con_SnowRidge
+
+Map Name:	con_snowridge.bsp
+Author:            	DocRock
+Author email:  	docrock10@hotmail.com
+
+
+wadincluded:	con_master.wad
+
+===========================================================
+LEVEL DESCRIPTION:
+
+A Half-Life death match level based on a map in the upcoming Sven Co-op Mod, Conundrum 3
+
+High up in snowy mountains, a deserted train station looks over a deep cliff.  Abandoned train
+cars sit on frozen tracks.  A batallion of soldiers have commandeered the train station and are
+now loading supplies into the train to move further down the rail.
+ 
+===========================================================
+CONSTRUCTION:
+
+base map:	con3_25 from Conundrum 3
+editor used:            Worldcraft 3.4 SDK
+utilities used:          Vluzacn's v29 compile tools, paint, wally
+
+compile machine:    Shuttle R8 Z1700 V2
+		Intel(R) Core(TM) i7-7700K CPU @4.20GHz 4.2 Ghz
+		64 GM Ram
+		64-bit, x64 based processor
+		Windows 10 Home
+compile time:         	2 minutes
+
+===========================================================
+INSTALLATION:
+
+Unzip con_snowridge
+
+Take the 6 anachronism.tga files and place them in
+	valve/gfx/env
+Take the con_snowridge.bsp, con_snowridge.res, and con_snowridge.tx and place them in
+	valve/maps
+Take the snowridge folder from the models folder and place it in
+	valve/models
+Take the snowridge folder from the sound folder and place it in
+	valve/sound
+Take the snowridge folder from the sprites folder and place it in
+	valve/sprites
+
+===========================================================
+SPECIAL THANKS:
+
+babykitkat
+	My love, my sweetheart, my wife.  I love you!!  Thanks baby for everything!
+qUiCkSiLvEr
+	My good friend.  Thank you for your unending help and support to make my maps the best possible!
+JPolito	
+	Thanks for making the incredible skybox texture anachronism!
+Julius Galla
+	Thanks for making the awesome atmosphere-cave-loop.wav
+Patchen	
+	Thanks for making the great locomotive-1-distant-horn.wav
+freesound.org
+	for free access to sound effects
+
+===========================================================
+COPYRIGHT STUFF
+
+con_snowridge by DocRock
+	Dec 23, 2020
+
+
+
+
+
+
+
+

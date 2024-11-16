@@ -1,0 +1,5 @@
+4
+weapon          640 weapon_6g30	0   0  170 45
+weapon_s        640 weapon_6g30	0   45  170 45
+crosshair		640 rgcross	113	0	29	256
+ammo			640 640hud7	48	72	24	24

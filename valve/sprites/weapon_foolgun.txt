@@ -1,0 +1,6 @@
+5
+weapon			640 weapon_foolgun	0	0	170	45
+weapon_s		640 weapon_foolgun	0	45	170	45
+ammo			640 weapon_foolgun	192	45	24	24
+crosshair		640 crosshairs	72	0	24	24
+d_foolgun		640 weapon_foolgun	0	240	48	16

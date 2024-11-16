@@ -1,0 +1,67 @@
+===========================================================
+2017_conflict2 by: twitch
+============================================================
+Completion Date:    17 Jan 2017       
+Map Name:      		2017_conflict2.bsp
+Author:             twitch
+Author email:  		levelediting@gmail.com
+============================================================
+LEVEL DESCRIPTION:
+
+My fellow mapper friend, cuda, made the map assault back in 2002 and this is a new version of it. Completely rebuilt
+Tons of secrets and my favorite air strike.
+
+SERVER ADMIN NOTES: The map sets all players to be equiped with weapons and ammo every
+time they spawn. Since the players spawn with weapons, those weapons might night be available for pickup
+but ammo is available. This was done to cut back on the amount of entities in the map in hopes to prevent
+the map from crashing due to the large amount of entities already in the map.
+
+Single Player:    	No
+Co-Op:              No
+Deathmatch:     	Yes
+Suggested Players:  8-24
+New Textures:   	Yes
+New Sounds:      	No
+New Models:		    No
+
+============================================================
+CONSTRUCTION: 1 week build time
+
+editor used:             J.A.C.K (JackHammer)
+utilities used:          VHLT, Irfanview, Photoshop, Wally
+known bugs:            	 Not unless someone abuses satchels or tripmines
+Secrets:                 Yes
+============================================================
+Install in steam/steamapps/common/half-life/valve_downloads
+==========================
+Credits:
+-Moonshine! Ideas, beta testing, and motivating me to make changes.
+-Cuda! Great map that inspired a complete rebuild from the ground up and with new changes.
+-vluzacn for VHLT
+-svencoop.com, Snarkpit.net, twhl.info, scmapdb.com
+
+--------------------------------
+
+Textures by:
+twitch
+Also: Andrew Weldon for the Nightwatch textures. 
+
+==========================
+
+COPYRIGHT STUFF
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+I used some pictures and textures I found on the internet a while back. I have no way
+to reference the original authors because the site where I downloaded them at is no longer available.

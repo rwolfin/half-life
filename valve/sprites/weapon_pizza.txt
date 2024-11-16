@@ -1,0 +1,6 @@
+6
+weapon			640 weapon_pizza	0	0	170	45
+weapon_s		640 weapon_pizza	0	45	170	45
+ammo			640 weapon_pizza	192	45	24	24
+crosshair		640 crosshairs		24	0	24	24
+d_pizza			640 weapon_pizza	8	237	32	19

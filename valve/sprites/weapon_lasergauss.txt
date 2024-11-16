@@ -1,0 +1,6 @@
+5
+ammo		640 		640hud7		0	96	24	24
+crosshair	640 crosshairs	48	48	24	24
+weapon_s	640 weapon_lasergauss 0   45  170 45
+weapon		640 weapon_lasergauss	0   0  170 45
+d_lasergaussgauss	640	weapon_lasergauss 192	0	48	16

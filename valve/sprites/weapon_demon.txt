@@ -1,0 +1,4 @@
+3
+d_demon_player		640 	weapon_demon	0	237	48	19
+d_spikes		640 	weapon_demon	50	237	48	19
+d_macespike		640 	weapon_demon	50	237	48	19

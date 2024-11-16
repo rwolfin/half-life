@@ -1,0 +1,6 @@
+5
+ammo		640 	weapon_9mmarelectro	192	45	24	24
+crosshair	640 	crosshairs	0	48	24	24
+weapon_s		640 	weapon_9mmarelectro	0   45  170 45
+weapon		640 	weapon_9mmarelectro	0   0  170 45
+d_9mmarelectro	640	weapon_9mmarelectro	192	0	48	16

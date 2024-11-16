@@ -1,0 +1,23 @@
+Liste de bugs connus de Half-Life INVASION
+
+Voici une liste de bug que nous avons pu relever très très rarement, mais que nous n'avons pas pu corriger et qui pourrait vous géner dans le jeu : 
+
+- Map l2m1 (première map de la partie 2) :
+En utilisant le tank, la tourelle refuse quelque fois de tourner. Remède : charger la dernière partie sauvegardée le plus loin possible de cet endroit.
+
+- Map l4m2 (deuxième map de la partie 4) :
+Les flêches du panneau de commande des tapis roulants pourraient disparaitre. Remède : quitter HL, puis revenir dans le jeu.
+
+- Plantage et retour sous Windows :
+Il se peut que, en raison d'un trop grand nombre d'entités à l'écran (souvent dût à des débris de metal, bois, glasses), le jeu s'arrête et revienne à Windows. Dans ce cas la, il suffit de relancer INVASION et de charger votre dernière partie sauvegardée.
+Cependant si jamais le problème se reproduit toujours au même endroit, il faut mieux éviter de regarder les débris ou autres entités en surnombres, en regardeant derrière vous par exemple (dans le jeu, pas dans la réalité ;) ) et d'attendre que celle ci disparaissent.
+
+- Maps du tank :
+Le tank peut parfois rester bloqué au contact d'un élément du décor. Remède : charger la dernière partie sauvegardée.
+
+- Lunette du sniper :
+Il se peut qu'en raison d'un nombre extrèmement important d'impacts de balle dans le niveau, la lentille du fusil sniper buggue et affiche un peu n'importe quoi. Remède : effacer les impacts de balles en effectuant une sauvegarde puis un chargement (même rapide).
+
+
+
+Si vous avez relevez un bug ou plantage de jeu, merci de nous contacter par l'email ou le forum de notre site www.hl-invasion.fr.st

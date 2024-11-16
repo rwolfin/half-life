@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>STEAM - Квитанция к Вашей подписке по ключу диска</title>
+
+<style TYPE="text/css">
+
+BODY {
+	margin:8px 25% 0 5%;
+	font-family:Arial,Verdana,Helvetica;
+	font-size:10pt;
+}
+h1 {
+	font-weight:bold;
+	font-size:11pt;
+	line-height:14pt;
+	text-transform:uppercase;
+	margin-bottom:0px;
+}
+TD {
+	font-family:Arial,Verdana,Helvetica;
+	font-size:10pt;
+	padding-right:24px;
+}
+HR {
+	height:1px;
+	color:black;
+}
+</style>
+
+
+</head>
+
+
+<body OnLoad="window.print()">
+<h1><img src="http://steampowered.com/img/steam_logo_onwhite.gif" height="36" width="67" alt="STEAM" align="absmiddle"> Steam - Квитанция к Вашей подписке по ключу диска</h1>
+<br>
+Ваша подписка на <b>%%subscription%%</b> прошла успешно. Рекомендуется хранить данную информацию в безопасном месте. В будущем она может быть использована в качестве квитанции об оплате.
+
+<br><br>
+<hr noshade size="1">
+
+<table>
+
+<tr><td>Имя учётной записи:</td><td><b> %%accountname%% </b></td></tr>
+<tr><td>Адрес e-mail для связи:</td><td><b> %%email%% </b></td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td>Название продукта:</td><td><b> %%subscription%% </b></td></tr>
+<tr><td>Код подтверждения:</td><td><b> %%confirmationcode%% </b></td></tr>
+
+</table>
+
+<hr noshade size="1">
+<br>
+<b>Важное примечание:</b> Ваша новая подписка привязана к Вашей учётной записи Steam. Это означает, что Вы будете иметь доступ к %%subscription%% только при входе в Steam под учётной записью "%%accountname%%".<br>
+<br><b>Благодарим Вас за покупку!</b><br>
+<br><br>
+
+</body>
+</html>
