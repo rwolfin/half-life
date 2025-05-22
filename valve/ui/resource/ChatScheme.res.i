@@ -607,10 +607,10 @@
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2EP2.ttf"
 	}
-	"OrigModDate"		"1728403867"
+	"OrigModDate"		"1747893960"
 	"PreprocessorVersion"		"2"
 	"Includes"
 	{
-		"ui/resource/ChatSchemeBase.res"		"1728403867"
+		"ui/resource/ChatSchemeBase.res"		"1747893960"
 	}
 }

@@ -804,10 +804,10 @@
 	{
 		"1"		"resource/HALFLIFE2.ttf"
 	}
-	"OrigModDate"		"1728403867"
+	"OrigModDate"		"1747893960"
 	"PreprocessorVersion"		"2"
 	"Includes"
 	{
-		"ui/resource/ClientSchemeBase.res"		"1728403867"
+		"ui/resource/ClientSchemeBase.res"		"1747893960"
 	}
 }
